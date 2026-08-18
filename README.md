@@ -1,184 +1,101 @@
 <h1 align="center">Hi 👋, I'm Abdul Momin N.</h1>
 
-<h3 align="center">🚀 MERN Stack Web Developer from Pakistan</h3>
+<h3 align="center">🚀 MERN Stack Developer | Full-Stack Web Developer</h3>
 
 <p align="center">
-  I build modern, scalable, and user-friendly full-stack web applications.
+  Building modern, scalable and user-focused web applications with the MERN stack.
+</p>
+
+<p align="center">
+  <a href="https://github.com/AbdulMominNaeem">
+    <img src="https://img.shields.io/github/followers/AbdulMominNaeem?style=for-the-badge&logo=github&label=Followers" alt="GitHub Followers"/>
+  </a>
+  <a href="https://github.com/AbdulMominNaeem?tab=repositories">
+    <img src="https://img.shields.io/github/stars/AbdulMominNaeem?style=for-the-badge&logo=github&label=Stars" alt="GitHub Stars"/>
+  </a>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 💻 MERN Stack Web Developer
-- ⚛️ Building modern frontend applications with React, Vite & JSX
-- 🛠️ Developing backend applications with Node.js & Express.js
-- 🗄️ Working with MongoDB & Mongoose
-- 🔐 Building REST APIs and authentication systems
-- 🧪 Testing APIs with Postman & Thunder Client
-- 💡 Experienced with C++, C, SQL & Python
-- 🌱 Continuously learning and improving my development skills
+I'm a **MERN Stack Web Developer** passionate about creating full-stack applications, REST APIs and modern user interfaces.
+
+* ⚛️ Building frontend applications with **React, Vite & JSX**
+* 🛠️ Developing backend systems with **Node.js & Express.js**
+* 🗄️ Working with **MongoDB & Mongoose**
+* 🔐 Building **REST APIs & authentication systems**
+* 🧪 Testing APIs using **Postman & Thunder Client**
+* 💡 Programming experience with **JavaScript, Python, C++, C & SQL**
+* 🌱 Always learning and exploring new technologies
 
 ---
 
-## 🛠️ Languages & Technologies
+## 🛠️ Tech Stack
 
-<p align="left">
+### 💻 Frontend
 
-<a href="https://react.dev/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="45" height="45"/>
-</a>
+<p>
+  <img src="https://skillicons.dev/icons?i=react,vite,js,html,css" />
+</p>
 
-<a href="https://vite.dev/" target="_blank">
-<img src="https://vite.dev/logo.svg" alt="Vite" width="45" height="45"/>
-</a>
+### ⚙️ Backend & Database
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45"/>
-</a>
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mongoose,mysql" />
+</p>
 
-<a href="https://nodejs.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="45" height="45"/>
-</a>
+### 🧠 Programming Languages
 
-<a href="https://expressjs.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="45" height="45"/>
-</a>
+<p>
+  <img src="https://skillicons.dev/icons?i=js,python,cpp,c" />
+</p>
 
-<a href="https://www.mongodb.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="45" height="45"/>
-</a>
+### 🔧 Tools
 
-<a href="https://mongoosejs.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongoose/mongoose-original-wordmark.svg" alt="Mongoose" width="45" height="45"/>
-</a>
-
-<a href="https://www.mysql.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="SQL" width="45" height="45"/>
-</a>
-
-<a href="https://isocpp.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="45" height="45"/>
-</a>
-
-<a href="https://en.cppreference.com/w/c/language" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="45" height="45"/>
-</a>
-
-<a href="https://www.python.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="Python" width="45" height="45"/>
-</a>
-
-<a href="https://www.postman.com/" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="45" height="45"/>
-</a>
-
-<a href="https://www.thunderclient.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/rangav/thunder-client-support/master/images/thunder-icon.png" alt="Thunder Client" width="45" height="45"/>
-</a>
-
-<a href="https://git-scm.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="Git" width="45" height="45"/>
-</a>
-
-<a href="https://github.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="GitHub" width="45" height="45"/>
-</a>
-
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,figma" />
 </p>
 
 ---
 
-## 🚀 Tech Stack
+## 🚀 What I Build
 
-### Frontend
-- React.js
-- Vite
-- JSX
-- JavaScript
-- HTML5
-- CSS3
-
-### Backend
-- Node.js
-- Express.js
-- REST APIs
-- API Integration
-- Authentication & Authorization
-
-### Database
-- MongoDB
-- Mongoose
-- SQL
-
-### Programming Languages
-- JavaScript
-- Python
-- C++
-- C
-- SQL
-
-### Tools
-- Git
-- GitHub
-- Postman
-- Thunder Client
+| 💻 Area  | 🔨 Technologies                      |
+| -------- | ------------------------------------ |
+| Frontend | React, Vite, JSX, JavaScript         |
+| Backend  | Node.js, Express.js                  |
+| Database | MongoDB, Mongoose, SQL               |
+| APIs     | REST APIs, Authentication            |
+| Tools    | Git, GitHub, Postman, Thunder Client |
 
 ---
 
-## 📊 GitHub Stats
-
-
-<h2 align="center">📊 GitHub Activity</h2>
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=AbdulMominNaeem&theme=tokyo-night&hide_border=true"
-    alt="GitHub Activity Graph"
-  />
-</p>
-<h2 align="center">📊 GitHub Activity</h2>
+## 📊 GitHub
 
 <p align="center">
   <a href="https://github.com/AbdulMominNaeem">
-    <img src="https://img.shields.io/github/followers/AbdulMominNaeem?label=Followers&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/GitHub-AbdulMominNaeem-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
+</p>
 
+<p align="center">
   <a href="https://github.com/AbdulMominNaeem?tab=repositories">
-    <img src="https://img.shields.io/github/stars/AbdulMominNaeem?label=Stars&style=for-the-badge" />
-  </a>
-
-  <a href="https://github.com/AbdulMominNaeem">
-    <img src="https://img.shields.io/github/created-at/AbdulMominNaeem?label=Joined&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/View%20My%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/>
   </a>
 </p>
-
-<h2 align="center">🚀 GitHub</h2>
-
-<p align="center">
-  <a href="https://github.com/AbdulMominNaeem">
-    <img
-      src="https://img.shields.io/badge/GitHub-AbdulMominNaeem-181717?style=for-the-badge&logo=github"
-      alt="GitHub"
-    />
-  </a>
-</p>
-
 
 ---
 
 ## 🤝 Connect With Me
 
-<p align="left">
-
-<a href="https://github.com/AbdulMominNaeem" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-
-<a href="https://www.linkedin.com/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-
+<p>
+  <a href="https://github.com/AbdulMominNaeem">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
 
 ---
