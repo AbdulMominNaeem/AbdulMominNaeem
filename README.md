@@ -93,7 +93,7 @@ I'm a **MERN Stack Web Developer** passionate about creating full-stack applicat
   <a href="https://github.com/AbdulMominNaeem">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/abdul-momin-b294b7250">
+  <a href="https://www.linkedin.com/in/abdul-momin-b294b7250 target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
