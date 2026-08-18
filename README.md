@@ -137,11 +137,20 @@
     alt="GitHub Activity Graph"
   />
 </p>
+<h2 align="center">📊 GitHub Activity</h2>
+
 <p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbdulMominNaeem&theme=tokyonight"
-    alt="GitHub Profile Details"
-  />
+  <a href="https://github.com/AbdulMominNaeem">
+    <img src="https://img.shields.io/github/followers/AbdulMominNaeem?label=Followers&style=for-the-badge" />
+  </a>
+
+  <a href="https://github.com/AbdulMominNaeem?tab=repositories">
+    <img src="https://img.shields.io/github/stars/AbdulMominNaeem?label=Stars&style=for-the-badge" />
+  </a>
+
+  <a href="https://github.com/AbdulMominNaeem">
+    <img src="https://img.shields.io/github/created-at/AbdulMominNaeem?label=Joined&style=for-the-badge" />
+  </a>
 </p>
 
 <h2 align="center">🚀 GitHub</h2>
