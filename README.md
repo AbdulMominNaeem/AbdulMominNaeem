@@ -129,9 +129,13 @@
 ## 📊 GitHub Stats
 
 
+<h2 align="center">📊 GitHub Activity</h2>
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=AbdulMominNaeem" alt="GitHub Streak"/>
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=AbdulMominNaeem" alt="GitHub Streak" /></a>
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=AbdulMominNaeem&theme=tokyo-night&hide_border=true"
+    alt="GitHub Activity Graph"
+  />
 </p>
 <p align="center">
   <img
@@ -140,15 +144,15 @@
   />
 </p>
 
+<h2 align="center">🚀 GitHub</h2>
+
 <p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AbdulMominNaeem&theme=tokyonight"
-    alt="Repositories Per Language"
-  />
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AbdulMominNaeem&theme=tokyonight"
-    alt="Most Commit Language"
-  />
+  <a href="https://github.com/AbdulMominNaeem">
+    <img
+      src="https://img.shields.io/badge/GitHub-AbdulMominNaeem-181717?style=for-the-badge&logo=github"
+      alt="GitHub"
+    />
+  </a>
 </p>
 
 
